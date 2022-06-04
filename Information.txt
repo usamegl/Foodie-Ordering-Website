@@ -1,3 +1,7 @@
+For admin login;
+Username=Admin
+Pw=123
+
 theme
 -->>> Feane Theme
 Feane – Free Bootstrap 4 HTML5 Restaurant Website Template
